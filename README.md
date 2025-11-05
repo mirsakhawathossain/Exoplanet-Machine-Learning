@@ -160,7 +160,7 @@ Exoplanet ML employs a variety of machine learning algorithms to ensure comprehe
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [CC-BY-4.0](LICENSE).
 
 ---
 
